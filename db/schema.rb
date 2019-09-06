@@ -23,7 +23,7 @@ ActiveRecord::Schema.define(version: 2019_09_05_201449) do
     t.string "bio"
     t.string "feature"
     t.integer "rate"
-    t.integer "phone"
+    t.string "phone"
     t.string "email"
     t.string "website"
     t.string "password_digest"
