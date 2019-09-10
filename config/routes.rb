@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
   resources :artists
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+
+  post "/signup", to: "artists#create"
+  post "/login", to: "auth#login"
+  get "/autologin", to: "auth#autologin"
 end
