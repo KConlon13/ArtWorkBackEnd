@@ -9,8 +9,10 @@ class CreateArtists < ActiveRecord::Migration[5.2]
       t.string :feature
       t.integer :rate
       t.string :phone
-      t.string :email
       t.string :website
+      t.string :instagram
+      t.string :facebook
+      t.string :emailLink
       t.string :password_digest
 
       t.timestamps

@@ -7,13 +7,15 @@ artist1 = Artist.create!(
   feature: "http://zephyrgraffiti.com/wp-content/uploads/2019/05/Screen-Shot-2019-02-25-at-9.56.03-AM.png",
   rate: 599,
   phone: "516-948-3849",
-  email: "info@zephyrgraffiti.com",
   website: "http://zephyrgraffiti.com/",
+  instagram: "https://www.instagram.com/marniethedog/?utm_source=ig_embed",
+  facebook: "https://www.facebook.com/pages/Zephyr-artist/126389394070653",
+  emailLink: "info@zephyrgraffiti.com",
   password_digest: "password",
 )
 
 artist2 = Artist.create!(
-  profilePic: "https://www.themodern.org/sites/default/files/10-26a.png",
+  profilePic: "https://www.galeriemagazine.com/wp-content/uploads/2018/08/RD_Scharf_0205_F_webcover-1920x1200.jpg",
   username: "Kenny Scharf",
   location: "Brooklyn, NY",
   category: "Graffiti",
@@ -21,13 +23,15 @@ artist2 = Artist.create!(
   feature: "https://i1.wp.com/www.lataco.com/wp-content/uploads/2_HOMPAGE.jpg?resize=1400%2C600&",
   rate: 799,
   phone: "516-378-2299",
-  email: "info@kennyscharf.com",
   website: "https://kennyscharf.com/",
+  instagram: "https://www.instagram.com/kennyscharf/",
+  facebook: "https://www.facebook.com/KennyScharf/",
+  emailLink: "info@kennyscharf.com",
   password_digest: "password",
 )
 
 artist3 = Artist.create!(
-  profilePic: "http://voyagela.com/wp-content/uploads/2019/03/personal_photo.jpeg-60-782x600.jpg",
+  profilePic: "https://pbs.twimg.com/media/CRHlnzFWEAAt6Op.jpg",
   username: "Cernesto",
   location: "New York, NY",
   category: "Street Art",
@@ -35,8 +39,10 @@ artist3 = Artist.create!(
   feature: "https://cernesto.files.wordpress.com/2013/10/img_9545.jpg?w=2045&h=1534",
   rate: 299,
   phone: "718-538-4929",
-  email: "Cernone@gmail.com",
   website: "https://cernesto.com/",
+  instagram: "https://www.instagram.com/cernesto/?hl=en",
+  facebook: "https://www.facebook.com/funnydogpicsandvids/",
+  emailLink: "Cernone@gmail.com",
   password_digest: "password",
 )
 
@@ -49,13 +55,15 @@ artist4 = Artist.create!(
   feature: "https://images.squarespace-cdn.com/content/v1/58d16f4d29687f28d960c7d6/1548166620769-1P2XQP3MNCTKKMSAT2GK/ke17ZwdGBToddI8pDm48kKCOq53QVhH2MQLroQIMOK0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcnXlzez4jfKQH5DkzeZj1y-1MzKtB17BHdMx3ZGfR6vNi_ABftlPqvmdtbR-KaFai/Frank+Happy+TIme+NYC+2019.jpg?format=1500w",
   rate: 399,
   phone: "495-993-0293",
-  email: "info@sinesart.com",
   website: "http://www.sinesart.com/",
+  instagram: "https://www.instagram.com/frank_ape/?hl=en",
+  facebook: "https://www.facebook.com/frankapeTM/?__xts__",
+  emailLink: "info@sinesart.com",
   password_digest: "password",
 )
 
 artist5 = Artist.create!(
-  profilePic: "https://images.squarespace-cdn.com/content/v1/575599d11bbee0f4903a3b84/1498773579927-TLE3ATHWD6F1IZDOHXZD/ke17ZwdGBToddI8pDm48kLjLkCOJsB_8buHtnU2wxFx7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USSmc9zb8yYpgCH3XU1dP-v59c7iGwicwArSLjXM1TZwtrU8UFk4BXyUXL-Dw_TrVg/Hektad+.JPG?format=2500w",
+  profilePic: "http://cortigianimagazine.com/wp-content/uploads/2017/05/Hektad_01.jpg",
   username: "Hektad",
   location: "New York, NY",
   category: "Graffiti/Street Art",
@@ -63,8 +71,10 @@ artist5 = Artist.create!(
   feature: "http://www.about-street-art.com/wp-content/uploads/2016/10/HEDTAK_Manhattan01.jpg",
   rate: 499,
   phone: "229-049-5583",
-  email: "HektadArt@gmail.com",
   website: "https://hektad.com/",
+  instagram: "https://www.instagram.com/hektad._official/?hl=en",
+  facebook: "https://www.facebook.com/funnydogpicsandvids/",
+  emailLink: "HektadArt@gmail.com",
   password_digest: "password",
 )
 
@@ -77,13 +87,15 @@ artist6 = Artist.create!(
   feature: "https://images.squarespace-cdn.com/content/v1/5a1acb6ff9a61edc99dc6a37/1511899799622-KUQUGOH2S7K1V3496HGM/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/Date+With+Death+NYC+Coney+Island+June+2016.JPG?format=2500w",
   rate: 599,
   phone: "698-110-8884",
-  email: "CONTACT@DFACE.CO.UK",
   website: "http://www.dface.co.uk/",
+  instagram: "https://www.instagram.com/dface_official/?hl=en",
+  facebook: "https://www.facebook.com/DFaceOfficial/",
+  emailLink: "CONTACT@DFACE.CO.UK",
   password_digest: "password",
 )
 
 artist7 = Artist.create!(
-  profilePic: "https://media.wmagazine.com/photos/5810efa08207661517c63252/2:3/w_640/arar_ya_abney_v.jpg",
+  profilePic: "https://media.vanityfair.com/photos/561ff8806015429a1deba888/master/pass/nina-chanel-kravetz-wehby-gallery-chelsea-police-brutality-paintings.jpg",
   username: "Nina Chanel Abney",
   location: "Chicago, IL",
   category: "Cultural Collage/Mural",
@@ -91,13 +103,15 @@ artist7 = Artist.create!(
   feature: "http://www.coneyartwalls.com/thumbs/5_acooperninachanelabney8335-17ae4f05ce199501b6d61f5109eaced1.jpg",
   rate: 299,
   phone: "883-384-7736",
-  email: "NinaChanelAbney@gmail.com",
   website: "https://ninachanel.com/",
+  instagram: "https://www.instagram.com/ninachanel/?hl=en",
+  facebook: "https://www.facebook.com/search/pages/?q=nina%20chanel%20abney&epa=SERP_TAB",
+  emailLink: "NinaChanelAbney@gmail.com",
   password_digest: "password",
 )
 
 artist8 = Artist.create!(
-  profilePic: "https://hips.hearstapps.com/ell.h-cdn.co/assets/15/24/2560x3602/gallery-1433980958-kashink-portrait.jpg?resize=480:*",
+  profilePic: "https://blog.vandalog.com/wp-content/uploads/2013/12/aCooperKashink6167.jpg",
   username: "Kashink",
   location: "Paris, France",
   category: "Graffiti/Street Art",
@@ -105,8 +119,10 @@ artist8 = Artist.create!(
   feature: "http://www.coneyartwalls.com/thumbs/ecooperkashink7124-b52b394353d459c21ccf95d743482e24.jpg",
   rate: 699,
   phone: "019-493-7771",
-  email: "Kashink@gmail.com",
   website: "https://kashink.com/",
+  instagram: "https://www.instagram.com/kashink1/?hl=en",
+  facebook: "https://www.facebook.com/KASHINKart/",
+  emailLink: "ashink@gmail.com",
   password_digest: "password",
 )
 
@@ -119,8 +135,10 @@ artist9 = Artist.create!(
   feature: "http://www.coneyartwalls.com/content/1-current-murals/35-tristan-eato/6_acoopertristaneaton8711-recovered.jpg",
   rate: 499,
   phone: "772-550-4205",
-  email: "TristanEaton@gmail.com",
   website: "https://tristaneaton.com/",
+  instagram: "https://www.instagram.com/tristaneaton/?hl=en",
+  facebook: "https://www.facebook.com/tristaneatonart/",
+  emailLink: "TristanEaton@gmail.com",
   password_digest: "password",
 )
 

@@ -24,8 +24,10 @@ ActiveRecord::Schema.define(version: 2019_09_05_201449) do
     t.string "feature"
     t.integer "rate"
     t.string "phone"
-    t.string "email"
     t.string "website"
+    t.string "instagram"
+    t.string "facebook"
+    t.string "emailLink"
     t.string "password_digest"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
