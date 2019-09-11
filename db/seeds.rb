@@ -11,7 +11,7 @@ artist1 = Artist.create!(
   instagram: "https://www.instagram.com/marniethedog/?utm_source=ig_embed",
   facebook: "https://www.facebook.com/pages/Zephyr-artist/126389394070653",
   emailLink: "info@zephyrgraffiti.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist2 = Artist.create!(
@@ -27,7 +27,7 @@ artist2 = Artist.create!(
   instagram: "https://www.instagram.com/kennyscharf/",
   facebook: "https://www.facebook.com/KennyScharf/",
   emailLink: "info@kennyscharf.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist3 = Artist.create!(
@@ -43,7 +43,7 @@ artist3 = Artist.create!(
   instagram: "https://www.instagram.com/cernesto/?hl=en",
   facebook: "https://www.facebook.com/funnydogpicsandvids/",
   emailLink: "Cernone@gmail.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist4 = Artist.create!(
@@ -59,7 +59,7 @@ artist4 = Artist.create!(
   instagram: "https://www.instagram.com/frank_ape/?hl=en",
   facebook: "https://www.facebook.com/frankapeTM/?__xts__",
   emailLink: "info@sinesart.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist5 = Artist.create!(
@@ -75,7 +75,7 @@ artist5 = Artist.create!(
   instagram: "https://www.instagram.com/hektad._official/?hl=en",
   facebook: "https://www.facebook.com/funnydogpicsandvids/",
   emailLink: "HektadArt@gmail.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist6 = Artist.create!(
@@ -91,7 +91,7 @@ artist6 = Artist.create!(
   instagram: "https://www.instagram.com/dface_official/?hl=en",
   facebook: "https://www.facebook.com/DFaceOfficial/",
   emailLink: "CONTACT@DFACE.CO.UK",
-  password_digest: "password",
+  password: "password",
 )
 
 artist7 = Artist.create!(
@@ -107,7 +107,7 @@ artist7 = Artist.create!(
   instagram: "https://www.instagram.com/ninachanel/?hl=en",
   facebook: "https://www.facebook.com/search/pages/?q=nina%20chanel%20abney&epa=SERP_TAB",
   emailLink: "NinaChanelAbney@gmail.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist8 = Artist.create!(
@@ -123,7 +123,7 @@ artist8 = Artist.create!(
   instagram: "https://www.instagram.com/kashink1/?hl=en",
   facebook: "https://www.facebook.com/KASHINKart/",
   emailLink: "ashink@gmail.com",
-  password_digest: "password",
+  password: "password",
 )
 
 artist9 = Artist.create!(
@@ -139,7 +139,7 @@ artist9 = Artist.create!(
   instagram: "https://www.instagram.com/tristaneaton/?hl=en",
   facebook: "https://www.facebook.com/tristaneatonart/",
   emailLink: "TristanEaton@gmail.com",
-  password_digest: "password",
+  password: "password",
 )
 
 # artist9 = Artist.create!(
