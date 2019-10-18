@@ -36,6 +36,13 @@ SCREENSHOTS
 
 <img width="1283" alt="Screen Shot 2019-10-18 at 11 35 57 AM" src="https://user-images.githubusercontent.com/47828048/67108918-749b3900-f19d-11e9-95f6-cb8d5266b776.png">
 
+CODE EXAMPLES
+
+<img width="1440" alt="Screen Shot 2019-10-18 at 12 24 39 PM" src="https://user-images.githubusercontent.com/47828048/67111205-73b8d600-f1a2-11e9-8452-b86b9249a185.png">
+
+<img width="1440" alt="Screen Shot 2019-10-18 at 12 25 21 PM" src="https://user-images.githubusercontent.com/47828048/67111211-774c5d00-f1a2-11e9-9b41-f85902145cb5.png">
+
+
 INSTALLATION
 
 -Backend => in the command line, run: 
